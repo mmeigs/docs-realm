@@ -25,7 +25,7 @@ App Services.
 
    .. quizchoice:: MongoDB Atlas
 
-      Example of copy here explaining why MongoDB Atlas isn’t the right quiz choice
+      Example of copy here explaining why MongoDB Atlas isn’t the right quiz choice.
 
    .. quizchoice:: MongoDB University
 
