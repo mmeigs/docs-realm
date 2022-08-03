@@ -28,6 +28,7 @@ App Services.
       Example of copy here explaining why MongoDB Atlas isn’t the right quiz choice.
 
    .. quizchoice:: MongoDB University
+      :is-true:
 
       Example of copy here explaining why MongoDB University isn’t the right quiz choice
 
