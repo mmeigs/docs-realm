@@ -17,6 +17,25 @@ app to use the new Realm SDKs. While much of the logic and flow of information
 hasn't changed, there are a few important changes in the way your app connects to 
 App Services.
 
+.. quiz::
+   :quiz-id: mongoacc1
+   :quiz-date: 2021-06-29
+
+   With my MongoDB account, I can now access?
+
+   .. quizchoice:: MongoDB Atlas
+
+      Example of copy here explaining why MongoDB Atlas isn’t the right quiz choice
+
+   .. quizchoice:: MongoDB University
+
+      Example of copy here explaining why MongoDB University isn’t the right quiz choice
+
+   .. quizchoice:: All of the Above
+      :is-true:   
+
+      Your MongoDB account gives you access to all of the above: Atlas, University, Cloud Manager, etc
+
 Updating Your Existing Application
 ----------------------------------
 The changes in the Realm SDKs are best described by how they have been 
