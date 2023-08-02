@@ -26,6 +26,8 @@ support for issues in your database or app. We strongly recommend
 MongoDB's professional support for production apps and mission-critical
 use cases.
 
+No one is shrugging.
+
 To learn more about professional support, see `Atlas Support &
 Subscriptions <https://www.mongodb.com/cloud/atlas/pricing/support-subscriptions?tck=docs_realm>`__.
 
