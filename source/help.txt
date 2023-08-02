@@ -12,7 +12,7 @@ Get Help
    :depth: 1
    :class: singlecol
 
-Overview of HALP!
+Overview of HALP! No one cares.
 --------
 
 MongoDB provides various resources for getting help with App Services.
